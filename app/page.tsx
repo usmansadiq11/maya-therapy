@@ -145,7 +145,7 @@ export default function Home() {
           </p>
 
           <h1 className="max-w-3xl text-5xl font-medium leading-[1.04] tracking-[-0.04em] sm:text-6xl lg:text-7xl">
-            A calmer way forward starts with understanding yourself.
+            Therapy for Anxiety, Trauma & Burnout in Santa Monica
           </h1>
 
           <p className="mt-7 max-w-xl text-lg leading-8 text-[#59645E]">
@@ -467,6 +467,34 @@ export default function Home() {
               grounding. Natural light and a comfortable, uncluttered
               environment create space to settle in and focus on what matters.
             </p>
+            <div className="mt-10 grid gap-4 sm:grid-cols-3">
+  <div className="rounded-2xl border border-[#26332D]/10 bg-[#F7F4EE] p-5">
+    <p className="text-xs font-medium uppercase tracking-[0.18em] text-[#68746D]">
+      Location
+    </p>
+    <p className="mt-2 text-sm font-medium text-[#26332D]">
+      Santa Monica, CA
+    </p>
+  </div>
+
+  <div className="rounded-2xl border border-[#26332D]/10 bg-[#F7F4EE] p-5">
+    <p className="text-xs font-medium uppercase tracking-[0.18em] text-[#68746D]">
+      Sessions
+    </p>
+    <p className="mt-2 text-sm font-medium text-[#26332D]">
+      In-person & telehealth
+    </p>
+  </div>
+
+  <div className="rounded-2xl border border-[#26332D]/10 bg-[#F7F4EE] p-5">
+    <p className="text-xs font-medium uppercase tracking-[0.18em] text-[#68746D]">
+      Environment
+    </p>
+    <p className="mt-2 text-sm font-medium text-[#26332D]">
+      Private, calm & comfortable
+    </p>
+  </div>
+</div>
 
           </div>
 
